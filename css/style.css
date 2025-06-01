@@ -120,7 +120,7 @@ nav ul li a:hover {
 
 /* ヒーローセクション */
 .hero {
-    height: 70vh;
+    height: 80vh;
     min-height: 500px;
     background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
     color: var(--light-text);

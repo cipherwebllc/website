@@ -189,7 +189,8 @@ nav ul li a:hover {
         url('../images/cipherweb-bg.jpg') type('image/jpeg')
     );
     background-size: cover;
-    background-position: center;
+    /* Bias slightly toward the OpenPay Store booth (above foreground grass) */
+    background-position: center 42%;
     background-repeat: no-repeat;
     position: relative;
 }
